@@ -25,4 +25,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[Link](url) and ![Image](src:https://www.flaticon.com/br/icone-gratis/facebook_124010)
+[Link](url) and ![Image](https://www.flaticon.com/br/icone-gratis/facebook_124010)

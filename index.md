@@ -25,8 +25,10 @@ Syntax highlighted code block
 
 [Link](https://www.facebook.com/fertorresfs) and ![Image](https://img.icons8.com/cute-clipart/64/000000/facebook.png)
 
-<img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/>
+<a href="https://www.facebook.com/fertorresfs"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/></a>
 
-| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
-|:--:| 
-| *Space* |
+<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+
+<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
+
+

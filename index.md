@@ -1,10 +1,10 @@
-Master's student in Computer Science and Math. Member of the Multimedia and Praise Ministries.
+## Master's student in Computer Science and Math. Member of the Multimedia and Praise Ministries.
 
-https://twitter.com/fertorresfs
+<a href="https://www.facebook.com/fertorresfs"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/></a> <a href="https://twitter.com/fertorresfs"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/fertorresfs/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 
-https://www.linkedin.com/in/fertorresfs/
 
-https://parler.com/profile/fernandotorresfs
+
+
 
 
 Syntax highlighted code block
@@ -25,10 +25,10 @@ Syntax highlighted code block
 
 [Link](https://www.facebook.com/fertorresfs) and ![Image](https://img.icons8.com/cute-clipart/64/000000/facebook.png)
 
-<a href="https://www.facebook.com/fertorresfs"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/></a>
 
-<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 
-<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
+
+
+
 
 

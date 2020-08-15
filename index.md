@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[Link](url) and ![Image](https://icon-icons.com/pt/icone/facebook/59205)
+[Link](url) and ![Image](https://img.icons8.com/carbon-copy/100/000000/facebook-new.png)
 
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 

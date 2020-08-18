@@ -1,3 +1,5 @@
+<img src="https://www.canva.com/design/DAEFMfZ_3uA/x1tv_kU77rYHqedxxWUsPg/view?utm_content=DAEFMfZ_3uA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+
 ## Master's student in Computer Science and Math. Member of the Multimedia and Praise Ministries.
 
 <a href="https://www.facebook.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/></a> <a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>

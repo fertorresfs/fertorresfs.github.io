@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAEFMfZ_3uA/view"/>
+<img src="https://www.canva.com/design/DAEFMfZ_3uA/99wXJlQ1s9RqslKnujbsng/view"/>
 
 ## Master's student in Computer Science and Math. Member of the Multimedia and Praise Ministries.
 

@@ -1,6 +1,8 @@
+# Introdução à Ciência da Computação
+
 <img src="https://sn3301files.storage.live.com/y4mNCIAmDTGUWrNF_Sb6sshWIrO3WtI2jkTREJIJ0HK956N20KLStSkKiFNV_xHoVau_EbGBgSlhs9A7Gk0r4dP_rXc090cTtcgvQRwoktKvyJR_iD0sQISZCfjnXGNeEXhjJ-98m6fI3ftyHCpbezy9lEeFTsSJ2Ex4gsrt0EQvOF3kvG52qffab-Rfv0O50Eqrg7tJOxtsKf79mDbVu8JfA/GitHub%20Banner_png.png?psid=1&width=1366&height=415"/>
 
-## Master's student in Computer Science and Math. Member of the Multimedia and Praise Ministries.
+## Prefácio.....................................................................................................................................................................XVII
 
 <a href="https://www.facebook.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/></a> <a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 

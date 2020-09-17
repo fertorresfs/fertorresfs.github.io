@@ -6,8 +6,6 @@
 
 ## Projects
 
-- Conscientização em Segurança da Informação - [Link](url)
-- Infraestrutura de TI - [Link](url)
 - Sistema Interno de Gestão Escolar - [Link](url)
 - Ameaças Internas - Práticas para Mitigação das Vulnerabilidades Humanas - [Link](url)
 - Ferramenta Web para Gestão de TI em Microempresa - [Link](url)
@@ -15,8 +13,15 @@
 - Aplicação Java com Swing e persistencia de Dados - [Link](url)
 - Aplicação Web de Portal de Intranet Corporativa - [Link](url)
 - Conexão e Replicação de Dados em Banco de Dados Distribuídos Heterogêneos - [Link](url)
+
+## Courses
+
+- Conscientização em Segurança da Informação - [Link](url)
+- Infraestrutura de TI - [Link](url)
+- Introdução à Ciência da Computação - [Link](fertorresfs.github.io)
 - Python - [Link](url)
 - Programação Orientada a Objetos com Python - [Link](url)
+
 
 ## About
 

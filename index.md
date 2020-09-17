@@ -18,7 +18,7 @@
 
 - Conscientização em Segurança da Informação - [Link](url)
 - Infraestrutura de TI - [Link](url)
-- Introdução à Ciência da Computação - [Link](fertorresfs.github.io)
+- Introdução à Ciência da Computação - [Link](intro_ciencia_comp.md)
 - Python - [Link](url)
 - Programação Orientada a Objetos com Python - [Link](url)
 

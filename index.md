@@ -4,9 +4,9 @@
 
 <a href="https://www.facebook.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/></a> <a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 
-Projects | Courses
--------- | ---------
-Sistema Interno de Gestão Escolar - [Link](url) | Conscientização em Segurança da Informação - [Link](url)
+Projects | Link | Courses | Link
+--- | --- | --- | --- |
+Sistema Interno de Gestão Escolar | [Link](url) | Conscientização em Segurança da Informação | [Link](url)
 Ameaças Internas - Práticas para Mitigação das Vulnerabilidades Humanas - [Link](url) | Infraestrutura de TI - [Link](url)
 Ferramenta Web para Gestão de TI em Microempresa - [Link](url) | Introdução à Ciência da Computação - [Link](intro_ciencia_comp.md)
 Aplicação Java com Swing e DB4O - Banco de Dados Orientado a Objeto - [Link](url) | Python - [Link](url)

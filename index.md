@@ -12,6 +12,10 @@ Java Application with Swing and Data Persistence | [Link](url) | Object Oriented
 Corporate Intranet Portal Web Application | [Link](url) |
 Data Connection and Replication in Heterogeneous Distributed Databases | [Link](url) |
 
+## Posts
+
+[Python Introduction](https://github.com/fertorresfs/python_introduction)
+
 ## About
 
 - Experience in **Information and Communications Technology**, **Systems Development** and **Information Security**;

@@ -40,6 +40,7 @@ Data Connection and Replication in Heterogeneous Distributed Databases | [Link](
 <a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png"/></a>
 <a href="https://orcid.org/0000-0002-8212-4976" target="_blank"><img src="https://img.icons8.com/windows/50/000000/orcid.png"/></a>
 <a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png"/></a>
+<a href="https://gitlab.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/gitlab.png"/></a>
 
 
 

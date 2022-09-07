@@ -2,13 +2,11 @@
 
 ## `Always a Student.`
 
-<a href="https://www.facebook.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/></a>
-<a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
-<a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
-<img src="https://img.icons8.com/ios/50/000000/facebook-new.png"/>
-<img src="https://img.icons8.com/ios/50/000000/twitter--v1.png"/>
-<img src="https://img.icons8.com/windows/50/000000/orcid.png"/>
-<img src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png"/>
+<a href="https://github.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/github--v1.png"/></a>
+<a href="https://www.facebook.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/facebook-new.png"/></a>
+<a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png"/></a>
+<a href="https://orcid.org/0000-0002-8212-4976" target="_blank"><img src="https://img.icons8.com/windows/50/000000/orcid.png"/></a>
+<a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png"/></a>
 
 _Projects_ | _Link_ | _Courses_ | _Link_
 --- | --- | --- | --- |

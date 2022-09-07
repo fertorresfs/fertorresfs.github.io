@@ -6,6 +6,7 @@
 <a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
 <a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 <a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/orcid.png"/></a>
+<img src="https://img.icons8.com/windows/32/000000/orcid.png"/>
 
 _Projects_ | _Link_ | _Courses_ | _Link_
 --- | --- | --- | --- |

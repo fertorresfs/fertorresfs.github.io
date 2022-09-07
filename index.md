@@ -15,7 +15,7 @@ Data Connection and Replication in Heterogeneous Distributed Databases | [Link](
 ## Posts
 
 [Python Introduction](https://github.com/fertorresfs/python_introduction)
-[Analyzing-Video-with-OpenCV-and-Num](Pyhttps://github.com/fertorresfs/Analyzing-Video-with-OpenCV-and-NumPy)
+[Analyzing Video with OpenCV and NumPy](https://github.com/fertorresfs/Analyzing-Video-with-OpenCV-and-NumPy)
 [Segmentacao_Subtopicos](https://github.com/fertorresfs/segmentacao_subtopicos)
 [BERT](https://github.com/fertorresfs/bert)
 [Colabs](https://github.com/fertorresfs/colabs)

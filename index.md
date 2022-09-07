@@ -14,14 +14,14 @@ Data Connection and Replication in Heterogeneous Distributed Databases | [Link](
 
 ## Posts
 
-[Python Introduction](https://github.com/fertorresfs/python_introduction)
-[Analyzing Video with OpenCV and NumPy](https://github.com/fertorresfs/Analyzing-Video-with-OpenCV-and-NumPy)
-[Segmentacao_Subtopicos](https://github.com/fertorresfs/segmentacao_subtopicos)
-[BERT](https://github.com/fertorresfs/bert)
-[Colabs](https://github.com/fertorresfs/colabs)
-[Quora Question Pairs](https://github.com/fertorresfs/quora_question_pairs)
-[Image Classification with CNNs using Keras](https://github.com/fertorresfs/Image-Classification-with-CNNs-using-Keras)
-[Facial Expression Recognition in Keras](https://github.com/fertorresfs/Facial-Expression-Recognition-in-Keras)
+- [Python Introduction](https://github.com/fertorresfs/python_introduction)
+- [Analyzing Video with OpenCV and NumPy](https://github.com/fertorresfs/Analyzing-Video-with-OpenCV-and-NumPy)
+- [Segmentacao_Subtopicos](https://github.com/fertorresfs/segmentacao_subtopicos)
+- [BERT](https://github.com/fertorresfs/bert)
+- [Colabs](https://github.com/fertorresfs/colabs)
+- [Quora Question Pairs](https://github.com/fertorresfs/quora_question_pairs)
+- [Image Classification with CNNs using Keras](https://github.com/fertorresfs/Image-Classification-with-CNNs-using-Keras)
+- [Facial Expression Recognition in Keras](https://github.com/fertorresfs/Facial-Expression-Recognition-in-Keras)
 
 ## About
 

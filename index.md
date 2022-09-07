@@ -4,14 +4,13 @@
 
 _Projects_ | _Link_ | _Courses_ | _Link_
 --- | --- | --- | --- |
-Sistema Interno de Gestão Escolar | [Link](url) | Conscientização em Segurança da Informação | [Link](url)
-Ameaças Internas - Práticas para Mitigação das Vulnerabilidades Humanas | [Link](url) | Infraestrutura de TI | [Link](url)
-Ferramenta Web para Gestão de TI em Microempresa | [Link](url) | Introdução à Ciência da Computação | [Link](intro_ciencia_comp.md)
-Aplicação Java com Swing e DB4O - Banco de Dados Orientado a Objeto | [Link](url) | Python | [Link](url)
-Aplicação Java com Swing e persistencia de Dados | [Link](url) | Programação Orientada a Objetos com Python | [Link](url)
-Aplicação Web de Portal de Intranet Corporativa | [Link](url) |
-Conexão e Replicação de Dados em Banco de Dados Distribuídos Heterogêneos | [Link](url) |
-
+Internal School Management System | [Link](url) | Information Security Awareness| [Link](url)
+Internal Threats - Practices for Mitigating Human Vulnerabilities | [Link](url) | IT Infrastructure | [Link](url)
+Web Tool for IT Management in Microenterprises | [Link](url) | Introduction to Computer Science | [Link](intro_ciencia_comp.md)
+Java Application with Swing and DB4O - Object Oriented Database | [Link](url) | Python | [Link](url)
+Java Application with Swing and Data Persistence | [Link](url) | Object Oriented Programming with Python | [Link](url)
+Corporate Intranet Portal Web Application | [Link](url) |
+Data Connection and Replication in Heterogeneous Distributed Databases | [Link](url) |
 
 ## About
 

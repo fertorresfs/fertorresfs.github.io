@@ -2,12 +2,6 @@
 
 ## `Always a Student.`
 
-<a href="https://github.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/github--v1.png"/></a>
-<a href="https://www.facebook.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/facebook-new.png"/></a>
-<a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png"/></a>
-<a href="https://orcid.org/0000-0002-8212-4976" target="_blank"><img src="https://img.icons8.com/windows/50/000000/orcid.png"/></a>
-<a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png"/></a>
-
 _Projects_ | _Link_ | _Courses_ | _Link_
 --- | --- | --- | --- |
 Sistema Interno de Gestão Escolar | [Link](url) | Conscientização em Segurança da Informação | [Link](url)
@@ -29,9 +23,13 @@ Conexão e Replicação de Dados em Banco de Dados Distribuídos Heterogêneos |
 - Pós-graduado em Linguagens, suas Tecnologias e mundo do Trabalho pela UFPI;
 - Mestrado em Ciências da Computação e Matemática Computacional pela USP. 
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-8212-4976" href="https://orcid.org/0000-0002-8212-4976" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-8212-4976</a></div>
+## Social Network
 
-
+<a href="https://github.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/github--v1.png"/></a>
+<a href="https://www.facebook.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/facebook-new.png"/></a>
+<a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png"/></a>
+<a href="https://orcid.org/0000-0002-8212-4976" target="_blank"><img src="https://img.icons8.com/windows/50/000000/orcid.png"/></a>
+<a href="https://www.linkedin.com/in/fertorresfs/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png"/></a>
 
 
 

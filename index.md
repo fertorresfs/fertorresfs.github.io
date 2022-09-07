@@ -15,13 +15,13 @@ Conexão e Replicação de Dados em Banco de Dados Distribuídos Heterogêneos |
 
 ## About
 
-- Experiência na área de **Tecnologia da Informação e Comunicações**, **Desenvolvimento de Sistemas** e **Segurança da Informação**;
-- Graduado em Banco de Dados pela Fatec;
-- Bacharelado em Ciências de Dados pela Univesp;
-- Pós-graduado em MBA em Gestão da Segurança da Informação pela Uniara;
-- Pós-graduado em Matemática, suas Tecnologias e mundo do Trabalho pela UFPI;
-- Pós-graduado em Linguagens, suas Tecnologias e mundo do Trabalho pela UFPI;
-- Mestrado em Ciências da Computação e Matemática Computacional pela USP. 
+- Experience in **Information and Communications Technology**, **Systems Development** and **Information Security**;
+- Graduated in **Database** at Fatec;
+- Bachelor's degree in **Data Science** from Univesp;
+- Postgraduate in MBA in **Information Security Management** by Uniara;
+- Postgraduate in **Mathematics**, its Technologies and the World of Work at UFPI;
+- Postgraduate in **Languages**, its Technologies and the World of Work at UFPI;
+- Master's in **Computer Science and Computational Mathematics** from USP.
 
 ## Social Network
 

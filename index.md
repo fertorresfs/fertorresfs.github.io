@@ -35,7 +35,7 @@ Data Connection and Replication in Heterogeneous Distributed Databases | [Link](
 
 ## Social Network
 
-<a href="http://lattes.cnpq.br/1753444674645242" target="_blank"><img src="https://ecl.ufsc.br/wp-content/uploads/2021/09/Lattes-1.svg"/></a>
+<a href="http://lattes.cnpq.br/1753444674645242" target="_blank"><img src=""/></a>
 <a href="https://github.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/github--v1.png"/></a>
 <a href="https://www.facebook.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/facebook-new.png"/></a>
 <a href="https://twitter.com/fertorresfs" target="_blank"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png"/></a>

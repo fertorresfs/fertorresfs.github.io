@@ -26,7 +26,7 @@ Data Connection and Replication in Heterogeneous Distributed Databases | [Link](
 ## About
 
 - Experience in **Information and Communications Technology**, **Systems Development** and **Information Security**;
-- Graduated in **Database** at Fatec;
+- Undergraduated in **Database** at Fatec;
 - Bachelor's degree in **Data Science** from Univesp;
 - Postgraduate in MBA in **Information Security Management** by Uniara;
 - Postgraduate in **Mathematics**, its Technologies and the World of Work at UFPI;

@@ -26,12 +26,15 @@ Data Connection and Replication in Heterogeneous Distributed Databases | [Link](
 ## About
 
 - Experience in **Information and Communications Technology**, **Systems Development** and **Information Security**;
-- Undergraduated in **Database** at Fatec;
-- Bachelor's degree in **Data Science** from Univesp;
-- Postgraduate in MBA in **Information Security Management** by Uniara;
-- Postgraduate in **Mathematics**, its Technologies and the World of Work at UFPI;
-- Postgraduate in **Languages**, its Technologies and the World of Work at UFPI;
-- Master's in **Computer Science and Computational Mathematics** from USP.
+- Undergraduated in **Database** at FATEC;
+- Bachelor's degree in **Data Science** at UNIVESP;
+- Post-graduate in MBA in **Information Security Management** at UNIARA;
+- Post-graduate in **Data Science and Big Data Analytics** at FAMEESP;
+- Post-gratuate in **Computer Networking and Cloud Computing** at ESTRATEGO;
+- Post-gratuate in **Software Engineering and Project Management** at ESTRATEGO;
+- Post-graduate in **Mathematics**, its Technologies and the World of Work at UFPI;
+- Post-graduate in **Languages**, its Technologies and the World of Work at UFPI;
+- Master's of Science in **Computer Science and Computational Mathematics** at USP.
 
 ## Social Network
 

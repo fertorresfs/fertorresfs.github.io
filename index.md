@@ -15,7 +15,10 @@ ForExSys - Forensic Expert System | [ForExSys](https://forexsys.carrd.co)
 
 ## Posts
 
-- [Python Introduction](https://github.com/fertorresfs/python_introduction)
+- [Introduction to Python](https://github.com/fertorresfs/introduction_to_python)
+- [Introduction to R](https://github.com/fertorresfs/introduction_to_r)
+- [Introdução à Ciência de Dados](https://github.com/fertorresfs/introducao_a_ciencia_de_dados)
+- [Análise de Dados com R](https://github.com/fertorresfs/analise_de_dados_com_r)
 - [Analyzing Video with OpenCV and NumPy](https://github.com/fertorresfs/Analyzing-Video-with-OpenCV-and-NumPy)
 - [Segmentacao_Subtopicos](https://github.com/fertorresfs/segmentacao_subtopicos)
 - [BERT](https://github.com/fertorresfs/bert)
@@ -23,6 +26,7 @@ ForExSys - Forensic Expert System | [ForExSys](https://forexsys.carrd.co)
 - [Quora Question Pairs](https://github.com/fertorresfs/quora_question_pairs)
 - [Image Classification with CNNs using Keras](https://github.com/fertorresfs/Image-Classification-with-CNNs-using-Keras)
 - [Facial Expression Recognition in Keras](https://github.com/fertorresfs/Facial-Expression-Recognition-in-Keras)
+- [Dataset Noticias Fernando](https://github.com/fertorresfs/dataset)
 
 ## About
 

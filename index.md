@@ -37,6 +37,8 @@ ForExSys - Forensic Expert System | [ForExSys](https://forexsys.carrd.co)
 - Post-graduate in **Data Science and Big Data Analytics** at FAMEESP;
 - Post-gratuate in **Computer Networking and Cloud Computing** at ESTRATEGO;
 - Post-gratuate in **Software Engineering and Project Management** at ESTRATEGO;
+- Post-gratuate in **Digital Law** at Facuminas;
+- Post-gratuate in **Documents with an Emphasis on Judicial Expertise** at Faculdade BH;
 - Post-graduate in **Mathematics**, its Technologies and the World of Work at UFPI;
 - Post-graduate in **Languages**, its Technologies and the World of Work at UFPI;
 - Master's of Science in **Computer Science and Computational Mathematics** at USP.
